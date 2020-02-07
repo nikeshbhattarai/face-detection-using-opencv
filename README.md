@@ -1,2 +1,2 @@
 # face-detection-using-opencv
-Try out git for the first time.
+Trying out git for the first time.
